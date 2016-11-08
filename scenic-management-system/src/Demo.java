@@ -1,6 +1,4 @@
 import java.util.*;
-
-
 public class Demo {
 	private static void printOrder() {
 		System.out.println("============================");
